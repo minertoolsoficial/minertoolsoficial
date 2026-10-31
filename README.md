@@ -1,31 +1,40 @@
+
 # Gustavo Silva
 
-### Java Backend Developer | Full Stack Development
+### Java Backend Developer | Full Stack
 
-Desenvolvedor de software com experiência em desenvolvimento de aplicações web, APIs REST e bancos de dados relacionais.
+Desenvolvedor focado em Java, Spring Boot, APIs REST e arquitetura de software.
 
-Atualmente, estou aprofundando meus conhecimentos em Java, Spring Boot, arquitetura de software e desenvolvimento de aplicações escaláveis.
+---
 
 ### Tecnologias
 
-**Backend:** Java 21, Spring Boot, PHP, Laravel
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Frontend:** Angular, TypeScript, HTML, CSS
-
-**Banco de dados:** MySQL, PostgreSQL
-
-**Ferramentas:** Git, GitHub, Docker, Maven, IntelliJ IDEA, Linux
+---
 
 ### Projetos em destaque
 
-**Ethos — Enterprise Management System**
+**Ethos** — Modernização de um sistema empresarial com Java e Spring Boot.
 
-Reconstrução de um ecossistema empresarial utilizando Java e Spring Boot, com foco em arquitetura modular, regras de negócio, integrações e manutenção.
+[Ver projeto Ethos](https://github.com/minertoolsoficial/ethos)
 
-### Objetivos profissionais
+---
 
-Evoluir continuamente em engenharia de software, boas práticas de desenvolvimento, testes automatizados e arquitetura de sistemas.
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minertoolsoficial&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minertoolsoficial&layout=compact&theme=tokyonight)
+
+---
 
 ### Contato
 
-GitHub: [@minertoolsoficial](https://github.com/minertoolsoficial)
+[GitHub](https://github.com/minertoolsoficial)
+  
