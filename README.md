@@ -1,103 +1,136 @@
 <div align="center">
 
-# ⚒️ MINERTOOLS
+<!-- IDENTIDADE INSTITUCIONAL -->
 
-### SOFTWARE DEVELOPMENT & TECHNOLOGY SOLUTIONS
+<h1>MINERTOOLS</h1>
 
-**Transformando ideias em soluções digitais.**
+<strong>SOFTWARE DEVELOPMENT · SYSTEMS · TECHNOLOGY</strong>
 
-Desenvolvimento de softwares, sistemas empresariais, aplicações web e mobile, APIs e integrações.
+<br/><br/>
 
-<br>
+<strong>Transformamos desafios de negócio em soluções digitais.</strong>
 
-![Software Development](https://img.shields.io/badge/SOFTWARE-DEVELOPMENT-2563EB?style=for-the-badge&labelColor=0B1424)
-![Web & Mobile](https://img.shields.io/badge/WEB-%26_MOBILE-2563EB?style=for-the-badge&labelColor=0B1424)
-![APIs & Integrations](https://img.shields.io/badge/APIs-%26_INTEGRATIONS-2563EB?style=for-the-badge&labelColor=0B1424)
+<br/><br/>
+
+Desenvolvimento de sistemas empresariais, plataformas web, aplicações mobile e integrações sob medida.
+
+<br/>
+
+<a href="https://github.com/minertoolsoficial"><img src="https://img.shields.io/badge/CONHEÇA_NOSSOS_PROJETOS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projetos MinerTools" /></a>
+<img src="https://img.shields.io/badge/SOFTWARE_HOUSE-0F172A?style=for-the-badge" alt="Software House" />
 
 </div>
 
 ---
 
-## 🏢 Sobre a MinerTools
+### 01 / QUEM SOMOS
 
-A **MinerTools** é uma empresa de desenvolvimento de software voltada à criação e modernização de soluções digitais para empresas e negócios.
+## Tecnologia que acompanha o seu negócio.
 
-Nosso foco está em sistemas empresariais, aplicações web e mobile, APIs e integrações, com atenção à arquitetura, segurança, qualidade e evolução contínua.
+A **MinerTools** é uma empresa de desenvolvimento de software voltada à construção e evolução de soluções digitais. Trabalhamos com sistemas de gestão, aplicações web e mobile, APIs e integrações, combinando conhecimento de negócio com engenharia de software.
 
-## 🚀 Nossas soluções
-
-| Solução | O que desenvolvemos |
-| :--- | :--- |
-| 🏢 **Sistemas empresariais** | Sistemas de gestão, fluxos operacionais e automação de processos. |
-| 🌐 **Aplicações web** | Plataformas, painéis administrativos e aplicações sob medida. |
-| 📱 **Aplicações mobile** | Aplicativos e experiências para dispositivos móveis. |
-| 🔗 **APIs e integrações** | APIs REST e comunicação entre plataformas e serviços. |
-| 🔧 **Modernização de sistemas** | Evolução de sistemas legados e reestruturação de aplicações. |
-| ☁️ **Infraestrutura e deploy** | Contêineres, ambientes Linux e implantação de aplicações. |
+Nosso foco é entregar soluções **seguras, sustentáveis e preparadas para evoluir**.
 
 ---
 
-## 🛠️ Tecnologias
+### 02 / O QUE FAZEMOS
 
-<div align="center">
+## Soluções digitais
 
-**Backend**
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 · Sistemas empresariais</h3>
+Plataformas de gestão, automação de rotinas e organização de processos operacionais.
+</td>
+<td width="50%" valign="top">
+<h3>02 · Aplicações web</h3>
+Sistemas e plataformas sob medida, com interfaces modernas e integração de dados.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>03 · Aplicativos mobile</h3>
+Aplicações para dispositivos móveis conectadas a serviços e sistemas de negócio.
+</td>
+<td valign="top">
+<h3>04 · APIs e integrações</h3>
+Conexão entre sistemas, parceiros, serviços externos e plataformas corporativas.
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3>05 · Modernização de software</h3>
+Evolução de sistemas legados, melhoria de arquitetura e atualização tecnológica.
+</td>
+<td valign="top">
+<h3>06 · Infraestrutura e deploy</h3>
+Conteinerização, implantação e organização de ambientes de aplicações.
+</td>
+</tr>
+</table>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+---
+
+### 03 / NOSSA STACK
+
+## Tecnologias com que trabalhamos
+
+**Backend e APIs**
+
+![Java](https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F172A?style=flat-square&logo=springboot&logoColor=6DB33F)
+![PHP](https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=flat-square&logo=laravel&logoColor=FF2D20)
 
 **Frontend**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0F172A?style=flat-square&logo=angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0F172A?style=flat-square&logo=css&logoColor=1572B6)
 
-**Bancos de dados**
+**Dados e infraestrutura**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Infraestrutura e ferramentas**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032)
 
 ---
 
-## 📂 Projeto em destaque
+### 04 / PROJETOS
 
-### Ethos — Sistema de Gestão Empresarial
+## Em desenvolvimento
 
-Modernização de um ecossistema empresarial com foco em regras de negócio, arquitetura de software e integração entre sistemas.
+<table>
+<tr><td width="100%">
 
-**Tecnologias:** Java, Spring Boot, MySQL e Docker.
+### Ethos · Gestão e integrações empresariais
 
-[![Ver repositório Ethos](https://img.shields.io/badge/VER_PROJETO-ETHOS-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1424)](https://github.com/minertoolsoficial/ethos)
+Modernização de um ecossistema de sistemas empresariais, com foco em regras de negócio, arquitetura, gestão operacional e integração com serviços externos.
 
----
+**Stack:** Java · Spring Boot · MySQL · Docker
 
-## 🎯 Nossos princípios
+<a href="https://github.com/minertoolsoficial/ethos"><img src="https://img.shields.io/badge/EXPLORAR_REPOSITÓRIO-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar Ethos" /></a>
 
-- **Qualidade:** código claro, organizado e testável.
-- **Segurança:** proteção de dados e boas práticas de desenvolvimento.
-- **Manutenibilidade:** soluções preparadas para evolução.
-- **Integração:** comunicação confiável entre serviços e plataformas.
-- **Escalabilidade:** arquitetura adequada às necessidades de cada projeto.
+</td></tr>
+</table>
 
 ---
 
-## 📬 Contato
+### 05 / COMO TRABALHAMOS
 
-Para conhecer nossos projetos e acompanhar nosso desenvolvimento:
+## Engenharia orientada a resultados
 
-[![GitHub MinerTools](https://img.shields.io/badge/GitHub-MinerTools-0B1424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minertoolsoficial)
+| Princípio | Nosso compromisso |
+|:--|:--|
+| **Arquitetura** | Estruturas organizadas, compreensíveis e preparadas para evolução. |
+| **Qualidade** | Código legível, testes e manutenção responsável. |
+| **Segurança** | Proteção de dados e atenção às boas práticas de desenvolvimento. |
+| **Integração** | Sistemas que se comunicam de forma confiável. |
+| **Evolução contínua** | Melhorias graduais com foco nas necessidades do negócio. |
 
 ---
 
@@ -105,8 +138,16 @@ Para conhecer nossos projetos e acompanhar nosso desenvolvimento:
 
 ### MINERTOOLS
 
-**Tecnologia para transformar negócios.**
+**Software Development & Technology Solutions**
 
-<sub>© MinerTools • Software Development & Technology Solutions</sub>
+Tecnologia para transformar negócios.
+
+<br/>
+
+<a href="https://github.com/minertoolsoficial"><img src="https://img.shields.io/badge/GITHUB-MINERTOOLS-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub MinerTools" /></a>
+
+<br/><br/>
+
+<sub>© MinerTools · Desenvolvimento de software e soluções digitais</sub>
 
 </div>
