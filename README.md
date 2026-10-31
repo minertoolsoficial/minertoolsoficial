@@ -26,11 +26,15 @@ Desenvolvedor focado em Java, Spring Boot, APIs REST e arquitetura de software.
 
 ---
 
+
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minertoolsoficial&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=minertoolsoficial&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minertoolsoficial&layout=compact&theme=tokyonight)
+### Gráfico de contribuições
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minertoolsoficial&theme=tokyo-night)
+
 
 ---
 
