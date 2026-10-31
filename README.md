@@ -9,6 +9,7 @@ e aplicações com Java, Spring Boot e Angular.
 
 </div>
 
+---
 
 ### Tecnologias
 
