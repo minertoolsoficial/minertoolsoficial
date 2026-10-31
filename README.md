@@ -35,9 +35,14 @@ e aplicações com Java, Spring Boot e Angular.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=minertoolsoficial&theme=tokyonight&hide_border=true)
 
-### Gráfico de contribuições
+<h3>Contribuições</h3>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minertoolsoficial&theme=tokyo-night)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=minertoolsoficial&theme=tokyo-night&hide_border=true"
+    alt="Gráfico de contribuições"
+  />
+</p>
 
 
 ---
