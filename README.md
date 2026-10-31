@@ -1,11 +1,14 @@
+<div align="center">
 
 # Gustavo Silva
 
 ### Java Backend Developer | Full Stack
 
-Desenvolvedor focado em Java, Spring Boot, APIs REST e arquitetura de software.
+Desenvolvimento de APIs REST, sistemas empresariais
+e aplicações com Java, Spring Boot e Angular.
 
----
+</div>
+
 
 ### Tecnologias
 
