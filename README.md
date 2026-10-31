@@ -4,14 +4,8 @@
 
 <h1>MINERTOOLS</h1>
 
-<strong>SOFTWARE DEVELOPMENT · SYSTEMS · TECHNOLOGY</strong>
-
-<br/><br/>
-
-<strong>Transformamos desafios de negócio em soluções digitais.</strong>
-
-<br/><br/>
-
+<strong>SOFTWARE DEVELOPMENT · SYSTEMS · TECHNOLOGY</strong><br/>
+<strong>Transformamos desafios de negócio em soluções digitais.</strong><br/>
 Desenvolvimento de sistemas empresariais, plataformas web, aplicações mobile e integrações sob medida.
 
 <br/>
